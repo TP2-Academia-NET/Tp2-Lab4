@@ -1,0 +1,16 @@
+C:\NET\Labs\TP2L01\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\NET\Labs\TP2L02\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\NET\Labs\TP2L03\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\NET\Labs\TP2L03\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\NET\Labs\TP2L03\TP2\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\NET\Labs\TP2L03\TP2\UI.Desktop\bin\Debug\Business.Entities.dll
+C:\NET\Labs\TP2L03\TP2\UI.Desktop\bin\Debug\Business.Logic.dll
+C:\NET\Labs\TP2L03\TP2\UI.Desktop\bin\Debug\Data.Database.dll
+C:\NET\Labs\TP2L03\TP2\UI.Desktop\bin\Debug\Business.Entities.pdb
+C:\NET\Labs\TP2L03\TP2\UI.Desktop\bin\Debug\Business.Logic.pdb
+C:\NET\Labs\TP2L03\TP2\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\NET\Labs\TP2L03\TP2\UI.Desktop\obj\Debug\UI.Desktop.csprojResolveAssemblyReference.cache
+C:\NET\Labs\TP2L03\TP2\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\NET\Labs\TP2L03\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.Cache
+C:\NET\Labs\TP2L03\TP2\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\NET\Labs\TP2L03\TP2\UI.Desktop\obj\Debug\UI.Desktop.pdb

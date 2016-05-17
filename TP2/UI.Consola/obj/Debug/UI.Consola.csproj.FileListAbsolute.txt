@@ -1,0 +1,12 @@
+C:\NET\Labs\TP2L03\TP2\UI.Consola\bin\Debug\UI.Consola.exe.config
+C:\NET\Labs\TP2L03\TP2\UI.Consola\bin\Debug\UI.Consola.exe
+C:\NET\Labs\TP2L03\TP2\UI.Consola\bin\Debug\UI.Consola.pdb
+C:\NET\Labs\TP2L03\TP2\UI.Consola\bin\Debug\Business.Entities.dll
+C:\NET\Labs\TP2L03\TP2\UI.Consola\bin\Debug\Business.Logic.dll
+C:\NET\Labs\TP2L03\TP2\UI.Consola\bin\Debug\Data.Database.dll
+C:\NET\Labs\TP2L03\TP2\UI.Consola\bin\Debug\Business.Entities.pdb
+C:\NET\Labs\TP2L03\TP2\UI.Consola\bin\Debug\Business.Logic.pdb
+C:\NET\Labs\TP2L03\TP2\UI.Consola\bin\Debug\Data.Database.pdb
+C:\NET\Labs\TP2L03\TP2\UI.Consola\obj\Debug\UI.Consola.csprojResolveAssemblyReference.cache
+C:\NET\Labs\TP2L03\TP2\UI.Consola\obj\Debug\UI.Consola.exe
+C:\NET\Labs\TP2L03\TP2\UI.Consola\obj\Debug\UI.Consola.pdb

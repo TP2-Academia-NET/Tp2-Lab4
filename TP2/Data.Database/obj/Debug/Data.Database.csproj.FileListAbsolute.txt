@@ -1,0 +1,7 @@
+C:\NET\Labs\TP2L03\TP2\Data.Database\bin\Debug\Data.Database.dll
+C:\NET\Labs\TP2L03\TP2\Data.Database\bin\Debug\Data.Database.pdb
+C:\NET\Labs\TP2L03\TP2\Data.Database\bin\Debug\Business.Entities.dll
+C:\NET\Labs\TP2L03\TP2\Data.Database\bin\Debug\Business.Entities.pdb
+C:\NET\Labs\TP2L03\TP2\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
+C:\NET\Labs\TP2L03\TP2\Data.Database\obj\Debug\Data.Database.dll
+C:\NET\Labs\TP2L03\TP2\Data.Database\obj\Debug\Data.Database.pdb
