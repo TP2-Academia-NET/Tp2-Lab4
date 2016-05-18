@@ -17,6 +17,7 @@ namespace UI.Desktop
         public Usuarios()
         {
             InitializeComponent();
+            this.dgvUsuarios.AutoGenerateColumns = false;
         }
 
         public void Listar()
