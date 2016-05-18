@@ -40,5 +40,40 @@ namespace UI.Desktop
         {
             this.Close();
         }
+
+        private void tsbNuevo_Click(object sender, EventArgs e)
+        {
+            UsuarioDesktop formUsuario = new UsuarioDesktop(ApplicationForm.ModoForm.Alta);
+            formUsuario.ShowDialog();
+            this.Listar(); 
+        }
+
+        private void tsbEditar_Click(object sender, EventArgs e)
+        {
+            if (dgvUsuarios.SelectedRows.Count == 1)
+            {
+                int ID = ((Business.Entities.Usuario)dgvUsuarios.SelectedRows[0].DataBoundItem).ID;
+
+                UsuarioDesktop formUsuario = new UsuarioDesktop(ID, ApplicationForm.ModoForm.Modificacion);
+                formUsuario.Text = "Modificar Usuario";
+                formUsuario.ShowDialog();
+            }
+
+            Listar();
+        }
+
+        private void tsbEliminar_Click(object sender, EventArgs e)
+        {
+            if (dgvUsuarios.SelectedRows.Count == 1)
+            {
+                int ID = ((Business.Entities.Usuario)dgvUsuarios.SelectedRows[0].DataBoundItem).ID;
+
+                UsuarioDesktop formUsuario = new UsuarioDesktop(ID, ApplicationForm.ModoForm.Baja);
+                formUsuario.Text = "Eliminar Usuario";
+                formUsuario.ShowDialog();
+            }
+
+            Listar();
+        }
     }
 }

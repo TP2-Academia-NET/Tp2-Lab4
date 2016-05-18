@@ -29,3 +29,5 @@ C:\NET\Labs\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.csprojResolveAssemblyRefe
 C:\NET\Labs\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
 C:\NET\Labs\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.Cache
 C:\NET\Labs\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.Usuarios.resources
+C:\NET\Labs\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.ApplicationForm.resources
+C:\NET\Labs\TP2L04\TP2\UI.Desktop\obj\Debug\UI.Desktop.UsuarioDesktop.resources
